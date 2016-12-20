@@ -1,0 +1,59 @@
+h1
+{
+	font-family: "Arial";
+	font-style: normal;
+	font-size: 50px;
+	font-weight: lighter;
+	color : #005A31;
+}
+
+h2
+{
+	font-family: "Arial";
+	font-weight: lighter;
+	color: #005A31;
+
+}
+
+body
+{
+	background-color: #F3FAB6;
+}
+
+textarea
+{
+	width: 200px;
+	height: 100px;
+}
+
+td
+{
+	padding: 10px;
+}
+
+th
+{
+	padding: 10px;
+}
+
+.center
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.tengah
+{
+	text-align: center;
+}
+
+table
+{
+	width: 40%;
+	
+}
+
+.penuh
+{
+	width: 100%;
+}
